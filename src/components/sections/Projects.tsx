@@ -8,7 +8,7 @@ const Projects = () => {
       description:
         "AI-powered skill assessment platform with facial verification, tab-switch/speech detection, Hugging Face behavioral AI, and analytics dashboard.",
       image: "/proctorplus.png",
-      technologies: ["Django", "Next.js", "FaceApi.js", "Hugging Face"],
+      technologies: ["Django", "Next.js", "FaceApi.js", "Open Source Models"],
       liveUrl: "https://proctorplus.netlify.app/",
       sourceUrl: "https://github.com/waisodum/proctorPlus",
     },
