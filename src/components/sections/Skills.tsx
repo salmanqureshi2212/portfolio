@@ -128,7 +128,6 @@ const Skills = () => {
           ))}
         </div>
       </div>
-      zz
       <motion.div
         key={activeTab}
         className="space-y-8"
