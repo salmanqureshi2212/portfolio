@@ -46,7 +46,6 @@ const Skills = () => {
     tools: {
       title: "Developer Tools",
       skills: [
-        { name: "Git", level: 90 },
         { name: "GitHub", level: 90 },
         { name: "VS Code", level: 95 },
         { name: "Postman", level: 90 },
@@ -66,6 +65,7 @@ const Skills = () => {
       title: "Cloud, DevOps and  MLOps",
       skills: [
         { name: "AWS (EC2, Lambda, S3)", level: 75 },
+        { name: "Git", level: 90 },
         { name: "Netlify", level: 85 },
         { name: "Linux", level: 80 },
         { name: "Samba", level: 70 },
