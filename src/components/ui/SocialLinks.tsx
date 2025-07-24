@@ -16,7 +16,7 @@ const SocialLinks = ({ className = '' }: SocialLinksProps) => {
     { 
       name: 'GitHub', 
       icon: <Github className="h-5 w-5" />, 
-      url: 'https://github.com/waisodum' 
+      url: 'https://github.com/salmanqureshi2212' 
     },
     { 
       name: 'Twitter', 
