@@ -88,7 +88,7 @@ const Contact = () => {
               <div>
                 <p className="text-sm text-gray-600 dark:text-gray-400">Phone</p>
                 <p className="font-medium text-gray-900 dark:text-white">
-                  +91 70216 20569
+                  +91 70216 20659
                 </p>
               </div>
             </div>
@@ -122,7 +122,7 @@ const Contact = () => {
                 </svg>
               </motion.a>
               <motion.a
-                href="https://github.com/waisodum"
+                href="https://github.com/salmanqureshi2212"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="h-12 w-12 rounded-full bg-purple/20 flex items-center justify-center hover:bg-purple/30 transition-colors"
